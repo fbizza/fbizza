@@ -20,9 +20,3 @@
 | <img src="https://github.com/fbizza/fbizza/assets/109001290/607f1d7d-ddee-412f-bff9-d91d69ff3006" width="15"> Git        | <img src="https://github.com/fbizza/fbizza/assets/109001290/4af7d00a-2db2-4edc-87e5-77af0c6b29d3" width="15"> Haskell       | <img src="https://github.com/fbizza/fbizza/assets/109001290/938c3f22-ec39-43a2-a069-beb697a4591c" width="15"> C++       |
 | <img src="https://github.com/fbizza/fbizza/assets/109001290/f8fe1c78-6cb5-46fc-bdcd-13672f51a4b1" width="15"> Qt        | <img src="https://github.com/fbizza/fbizza/assets/109001290/0b4bfcf5-942c-4488-b1e7-977715f6ccda" width="18"> OpenMP       | <img src="https://github.com/fbizza/fbizza/assets/109001290/6e49a1e3-371a-4080-a284-da417693f086" width="15"> OpenCV       |
 | <img src="https://github.com/fbizza/fbizza/assets/109001290/2ffc031a-7291-4665-942e-4ded9114374a" width="18"> SQL       | <img src="https://github.com/fbizza/fbizza/assets/109001290/9da35391-00ce-4b7a-9f26-d939f1cdc961" width="18"> NumPy       | <img src="https://github.com/fbizza/fbizza/assets/109001290/203e18d5-c8f4-419c-8922-ddaff40ea12a" width="18"> Matplotlib       |
-
-
-### 📫 Get in Touch
-- 
-
-
