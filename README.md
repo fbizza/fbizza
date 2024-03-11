@@ -13,7 +13,7 @@
 
 
 ### 🔧 Tools
-| Technology                                                |   |   |
+|   |   |   |
 |-----------------------------------------------------------|---|---|
 | <img src="https://github.com/fbizza/fbizza/assets/109001290/e946077e-7253-4760-8c0b-f184e634fea9" width="15"> Python        | <img src="https://github.com/fbizza/fbizza/assets/109001290/59c2ea93-6407-42cf-895d-eed1d9fa8d06" width="15"> PyTorch       | <img src="https://github.com/fbizza/fbizza/assets/109001290/937ba00d-b228-4978-a501-2dd3070548d2" width="25"> Sickit-learn   |
 | <img src="https://github.com/fbizza/fbizza/assets/109001290/ea6e9c67-9542-45b5-85a7-c315d49c2b82" width="30"> Pandas     | <img src="https://github.com/fbizza/fbizza/assets/109001290/fa3a4075-9c84-4359-badb-d8ced00fb359" width="25"> PySpark       | <img src="https://github.com/fbizza/fbizza/assets/109001290/d4da7178-d3ff-4126-a50d-dd9c4b936be0" width="45"> Dash       |
