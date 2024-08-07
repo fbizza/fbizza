@@ -4,11 +4,16 @@
 ### About Me
 - 23 years old
 - 🎓 **Education:** Graduated in Computer Engineering, currently pursuing a Master's in Artificial Intelligence at the University of Florence
-- 🌍 **International Experiences:** I had the wonderful opportunity to participate in two Erasmus exchange programs in:
-  
+- 🌍 **International Experiences:**
+
+
+  I had the wonderful opportunity to participate in two Erasmus exchange programs in:
   - **Tampere, Finland** <img src="https://github.com/fbizza/fbizza/assets/109001290/30f57548-27e2-4f56-8957-c689c0b289df" width="20" >
   - **Gent, Belgium** <img src="https://github.com/fbizza/fbizza/assets/109001290/8bdbaa59-ce74-4569-bdab-77fbe8a175c4" width="20" >
   
+  And right now i'm working as Data Analyst in
+  - **Warsaw, Poland** <img src="https://github.com/user-attachments/assets/e2e8215b-1ab4-4d7a-926f-52421b5ae41c" width="20" >
+
 - 📫 **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/francesco-bizzarri-0a1189263/)
 
 
